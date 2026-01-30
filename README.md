@@ -30,7 +30,7 @@ If something annoys me enough, it becomes a repo.
 - **Zabbix Templates** – production-ready monitoring templates
 - **SelinuxPolicyMerger** – utility to manage and merge policies
 - **ImapSyncMigrationHelper** – mailbox migration helper
-- **vhvr-mod** – Valheim VR related work
+- **Game Mods** – Mod games with Bepinex
 
 ---
 
