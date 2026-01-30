@@ -35,4 +35,4 @@ If something annoys me enough, it becomes a repo.
 ---
 
 ## 📊 GitHub activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrensnyder&show_icons=true&theme=dark&count_private=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adrensnyder&theme=github-dark)
