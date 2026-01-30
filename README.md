@@ -21,7 +21,7 @@ If something annoys me enough, it becomes a repo.
 - Zabbix / monitoring systems
 - Linux, SELinux
 - Bash, scripting
-- Game modding (Valheim, VR, experiments)
+- Game modding (Repo, VR, experiments)
 - 3D printing, hardware tinkering
 
 ---
