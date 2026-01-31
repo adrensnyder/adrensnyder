@@ -19,7 +19,7 @@ If something annoys me enough, it becomes a repo.
 
 ## 🛠️ Technologies & interests
 - Zabbix / monitoring systems
-- Linux, SELinux
+- Linux and derivates
 - Bash, scripting
 - Game modding (Repo, VR, experiments)
 - 3D printing, hardware tinkering
